@@ -18,7 +18,7 @@ spring.datasource.username=XXX
 spring.datasource.password=XXX
 ```
 
-3. Requirement:
+3. Requirements:
 
   a. To get accessibility information, use following url with GET request type:
   > http://localhost:8080/feature?email=XXX&featureName=XXX
