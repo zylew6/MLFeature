@@ -29,9 +29,9 @@ spring.datasource.password=XXX
   Request Body:
   ```
     {
-        "featureName": "Feature1",
-        "email": "zy.lew6@gmail.com",
-        "enable": false
+        "featureName": "xxx",
+        "email": "xxx",
+        "enable": true|false
     }
  ```
 
