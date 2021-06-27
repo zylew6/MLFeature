@@ -20,10 +20,10 @@ spring.datasource.password=XXX
 
 3. Requirements:
 
-  a. To get accessibility information, use following url with GET request type:
+  a. To get accessibility information, use following url with **GET** request type:
   > http://localhost:8080/feature?email=XXX&featureName=XXX
   
-  b. To update accessibility, use following url with POST request typev:
+  b. To update accessibility, use following url with **POST** request typev:
   >http://localhost:8080/feature
   
   Request Body:
